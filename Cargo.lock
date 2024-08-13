@@ -2231,9 +2231,9 @@ dependencies = [
 
 [[package]]
 name = "near-token"
-version = "0.2.1"
+version = "0.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "f3b497804ec8f603fd11edc3d3b7b19f07c0beb9fe47c8a536eea1867097fd40"
+checksum = "cd3e60aa26a74dc514b1b6408fdd06cefe2eb0ff029020956c1c6517594048fd"
 
 [[package]]
 name = "near-vm-runner"
